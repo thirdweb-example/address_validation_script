@@ -1,4 +1,4 @@
-# address_validation
+# Airdrop Address Validation
 
 Validates a set of addresses for eligibility for a ERC1155 airdrop.
 
